@@ -39,6 +39,7 @@ public class CustomComboBoxCellRenderer : GridCellComboBoxRenderer
 
 ![ComboBox Style](ComboBoxStyle.png)
 
+KB article: [How to set style for ComboBox of the GridComboBoxColumn in WPF DataGrid(SfDataGrid)?](https://www.syncfusion.com/kb/12780/how-to-set-style-for-combobox-of-the-gridcomboboxcolumn-in-wpf-datagridsfdatagrid)
 
 ## Requirements to run the demo
 
